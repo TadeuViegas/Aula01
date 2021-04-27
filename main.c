@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 int main(){
-    printf("Menu Principal");
-    printf("opcao1");
-    printf("opcao2");
-    printf("opcao3");
+    printf("Menu Principal\n");
+    printf("opcao1\n");
+    printf("opcao2\n");
+    printf("opcao3\n");
     return 0;
 }
